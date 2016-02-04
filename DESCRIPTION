@@ -1,0 +1,14 @@
+Package: rootility
+Type: Package
+Title: Simple Toolset to Make It Easier to Perform Common System Tasks.
+Version: 0.1.0
+Date: 2016-02-03
+Authors@R: person("James", "Truong", email = "james.truong@rootmetrics.com", role = c("aut", "cre"))
+Description: OS-agnostic tools and aliases to common everyday functions.
+URL: https://github.com/jamesgitting/rootility/
+BugReports: https://github.com/jamesgitting/rootility/issues
+Depends:
+    R (>= 3.2.2)
+License: GPL (>=2)
+LazyData: TRUE
+RoxygenNote: 5.0.1

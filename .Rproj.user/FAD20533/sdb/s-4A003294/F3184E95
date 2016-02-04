@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: rootility\nType: Package\nTitle: Simple Toolset to Make It Easier to Perform Common System Tasks.\nVersion: 0.1.0\nDate: 2016-02-03\nAuthors@R: person(\"James\", \"Truong\", email = \"james.truong@rootmetrics.com\", role = c(\"aut\", \"cre\"))\nDescription: OS-agnostic tools and aliases to common everyday functions.\nURL: https://github.com/jamesgitting/rootility/\nBugReports: https://github.com/jamesgitting/rootility/issues\nDepends:\n    R (>= 3.2.2)\nLicense: GPL (>=2)\nLazyData: TRUE\nRoxygenNote: 5.0.1\n",
+    "created" : 1454568318148.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3052982845",
+    "id" : "F3184E95",
+    "lastKnownWriteTime" : 1454569038,
+    "path" : "C:/Users/Jemand/Desktop/New folder/rootility/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "dcf"
+}
