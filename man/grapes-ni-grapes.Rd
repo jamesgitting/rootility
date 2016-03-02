@@ -18,4 +18,7 @@ This tests for non-membership of a given vector.
 1:10 \%ni\% c(1, 3, 5, 9)
 
 }
+\seealso{
+Other res: \code{\link{parse_datetime}}
+}
 
