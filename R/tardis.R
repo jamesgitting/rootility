@@ -6,7 +6,7 @@
 #' @param my.df Data frame
 #' @param my.df.col Column with date time values of class POSIX.
 #'
-#' @return my.df. Essentially cbinds original data frame with temporal data.
+#' @return my.df Essentially cbinds original data frame with temporal data.
 #'
 #' @family temporal_functions
 
